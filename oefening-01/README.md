@@ -15,6 +15,6 @@
 
 ## 💡 vragen
 
-- Waarvoor staat de afkorting `ul`?
-- Waarvoor staat de afkorting `li`?
-- Welke elementen worden in deze oefening "genest"?
+- Waarvoor staat de afkorting `ul`? unordered list
+- Waarvoor staat de afkorting `li`? List Item
+- Welke elementen worden in deze oefening "getest"? ul en li
